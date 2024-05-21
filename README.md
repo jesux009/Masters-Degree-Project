@@ -7,6 +7,6 @@ Four main types of components can be identified:
 - **Network classes**: In this case the UNETv2.py can be inspected within the "Development" files, along with the individual backbones for training and validation. Variations with self-attention mechanisms were developed using the libraries "Segmentation Models Pytorch" and "TIMM"
 - **Training and validation notebooks**: The actual files used for training and validation were developed in Kaggle to make use of its Graphical Processing Units instead of my local hardware
 
-All trained networks are saved in the collection related to the project (https://www.kaggle.com/work/collections/13995497).
+All trained networks are saved in the collection related to the project (https://www.kaggle.com/work/collections/13995497), where it is possible to create copies of the code and test the different networks.
 
 For more information, do not restrain from further contact at jesus.morales.lopez.27@gmail.com
